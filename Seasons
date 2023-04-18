@@ -6,12 +6,17 @@
   },
   {
     "catId": 2,
-    "name": "Mua Xuan",
-    "image": "Mua xuan.png"
+    "name": "Mua Ha",
+    "image": "Mua ha.png"
   },
   {
     "catId": 3,
-    "name": "Mua Xuan",
-    "image": "Mua xuan.png"
+    "name": "Mua Thu",
+    "image": "Mua thu.png"
+  },
+  {
+    "catId": 4,
+    "name": "Mua Dong",
+    "image": "Mua dong.png"
   }
 ]
